@@ -1,5 +1,5 @@
 {
-  "homepage": "https://LeonardoDM.github.io/react-book-finder",
+  "homepage": "ssh://LeonardoDM.github.io/react-book-finder",
   "name": "react-book-finder",
   "version": "1.0.0",
   "private": true,
