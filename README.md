@@ -1,7 +1,5 @@
 ## Overview
 
-https://img.shields.io/github/license/LeonardoDM/reactjs-book-finder
-
 Book Finder is a React app that returns data about books (consumes Google Books API).
 
 You can check the final result [here](https://youtu.be/DDm0M_rZLJo).
