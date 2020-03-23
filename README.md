@@ -6,15 +6,15 @@ Book Finder is a React app that returns data about books (consumes Google Books 
 
 You can check the final result [here](https://youtu.be/DDm0M_rZLJo).
 
-### Requirements
+## Requirements
 
 - NodeJS (for packages installation through npm)
 
-### Running project
+## Running project
 
 - Install dependencies - `npm i`
 - Run project - `npm start`
 
-### License
+## License
 
 [MIT](License) © Leonardo Dias
