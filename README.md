@@ -15,4 +15,4 @@ You can check the final result [here](https://youtu.be/DDm0M_rZLJo).
 
 ## License
 
-[MIT](License) © Leonardo Dias
+[MIT](https://github.com/LeonardoDM/reactjs-book-finder/blob/master/LICENSE) © Leonardo Dias
