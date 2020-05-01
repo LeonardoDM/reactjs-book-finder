@@ -9,7 +9,7 @@ function BooksArea({arrBooks}){
         </ul> 
       )
     }
-    return false
+    return null
 }
 
 export default memo(BooksArea)

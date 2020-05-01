@@ -10,5 +10,5 @@ export default function LoadingAnim({loading, setLoading}){
         }, 2000)
         return (<div className="lds-ellipsis"><div></div><div></div><div></div><div></div></div>)
     }
-    return false
+    return null
 }

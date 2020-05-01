@@ -15,13 +15,13 @@ export default function BookItem({book}){
         </div>
         <div className="book_desc">
           <div>
-            <strong>Author:</strong> {book.volumeInfo.authors}
+            <strong>Author:</strong> {book.volumeInfo.authors ? book.volumeInfo.authors : 'n/a'}
           </div>
           <div>
-            <strong>Publisher:</strong> {book.volumeInfo.publisher}
+            <strong>Publisher:</strong> {book.volumeInfo.publisher ? book.volumeInfo.publisher : 'n/a'}
           </div>
           <div>
-            <strong>Published:</strong> {book.volumeInfo.publishedDate}
+            <strong>Published:</strong> {book.volumeInfo.publishedDate ? book.volumeInfo.publishedDate : 'n/a'}
           </div>
         </div>
       </li>
