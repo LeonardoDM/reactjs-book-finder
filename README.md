@@ -1,6 +1,6 @@
 ## Overview
 
-Book Finder is a React app that returns data about books (consumes Google Books API).
+Book Finder is a React app that returns data about books (it consumes Google Books API).
 
 You can check the final result [here](https://leonardodm.github.io/reactjs-book-finder/).
 
