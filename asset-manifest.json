@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/reactjs-book-finder/static/css/main.a72ba001.chunk.css",
-    "main.js": "/reactjs-book-finder/static/js/main.70fa892c.chunk.js",
-    "main.js.map": "/reactjs-book-finder/static/js/main.70fa892c.chunk.js.map",
+    "main.css": "/reactjs-book-finder/static/css/main.c25928dd.chunk.css",
+    "main.js": "/reactjs-book-finder/static/js/main.f1fb87bd.chunk.js",
+    "main.js.map": "/reactjs-book-finder/static/js/main.f1fb87bd.chunk.js.map",
     "runtime-main.js": "/reactjs-book-finder/static/js/runtime-main.dbc0d66f.js",
     "runtime-main.js.map": "/reactjs-book-finder/static/js/runtime-main.dbc0d66f.js.map",
-    "static/js/2.879ca978.chunk.js": "/reactjs-book-finder/static/js/2.879ca978.chunk.js",
-    "static/js/2.879ca978.chunk.js.map": "/reactjs-book-finder/static/js/2.879ca978.chunk.js.map",
+    "static/js/2.26c37989.chunk.js": "/reactjs-book-finder/static/js/2.26c37989.chunk.js",
+    "static/js/2.26c37989.chunk.js.map": "/reactjs-book-finder/static/js/2.26c37989.chunk.js.map",
     "index.html": "/reactjs-book-finder/index.html",
-    "static/css/main.a72ba001.chunk.css.map": "/reactjs-book-finder/static/css/main.a72ba001.chunk.css.map",
-    "static/js/2.879ca978.chunk.js.LICENSE.txt": "/reactjs-book-finder/static/js/2.879ca978.chunk.js.LICENSE.txt"
+    "static/css/main.c25928dd.chunk.css.map": "/reactjs-book-finder/static/css/main.c25928dd.chunk.css.map",
+    "static/js/2.26c37989.chunk.js.LICENSE.txt": "/reactjs-book-finder/static/js/2.26c37989.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dbc0d66f.js",
-    "static/js/2.879ca978.chunk.js",
-    "static/css/main.a72ba001.chunk.css",
-    "static/js/main.70fa892c.chunk.js"
+    "static/js/2.26c37989.chunk.js",
+    "static/css/main.c25928dd.chunk.css",
+    "static/js/main.f1fb87bd.chunk.js"
   ]
 }
