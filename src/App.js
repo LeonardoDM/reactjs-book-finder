@@ -27,7 +27,7 @@ function App() {
               onChange={event => {setBooks(event.target.value)}}
               placeholder="Book name, author, subject..."
               onFocus={event => event.target.placeholder = ""}
-              onBlur={event => event.target.placeholder = "Book name, author, subject..."}
+              onBlur={event => event.target.placeholder = "Book title, author, subject..."}
               autoComplete="off"
             />
             <button id="btn" type="submit">Find</button>

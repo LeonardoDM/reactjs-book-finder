@@ -191,6 +191,14 @@ button {
   width: 290px;
 }
 
+.container p{
+  font-size: 12px;
+  font-style: italic;
+  color: #D33D3D;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
 .container {
   margin: 10px auto;
   width: 90%;
