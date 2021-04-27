@@ -1,3 +1,7 @@
+#Book Finder
+
+![screenshot](https://user-images.githubusercontent.com/27246482/116312415-ca817180-a782-11eb-908e-cb5a01cb3ad7.JPG)
+
 ## Overview
 
 Book Finder is a React app that returns data about books (it consumes Google Books API).
